@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning **Cypress** and **advanced Selenium frameworks**
 - 💬 Ask me about **Automation Testing, Manual Testing, API Testing & AI Output Validation**
 - 📫 How to reach me: **[ta2nfeez@gmail.com](mailto:ta2nfeez@gmail.com)**
-- 📍 Based in **Bihar, India** | Open to **UAE relocation**
+- 📍 Based in **Bihar, India** | Open to **Saudi relocation**
 - 🎓 Certified **SDET** from Masai School, Bengaluru
 
 ---
